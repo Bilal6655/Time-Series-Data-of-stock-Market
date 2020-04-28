@@ -1,0 +1,6 @@
+
+013 Section-3-Introduction-to-Time-Series-Template
+https://www.dropbox.com/s/59zz1ch8rabk5by/Section%203%20-%20Introduction%20to%20Time%20Series%20-%20Template.ipynb?dl=0
+
+013 Section-3-Introduction-to-Time-Series-Completed
+https://www.dropbox.com/s/3ssi6wr8cuw1nkn/Section%203%20-%20Introduction%20to%20Time%20Series%20-%20Completed%20.ipynb?dl=0
